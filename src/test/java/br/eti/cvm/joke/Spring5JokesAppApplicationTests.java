@@ -1,4 +1,4 @@
-package br.cvm.eti.joke;
+package br.eti.cvm.joke;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

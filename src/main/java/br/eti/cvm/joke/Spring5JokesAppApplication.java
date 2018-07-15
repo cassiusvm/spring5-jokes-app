@@ -1,4 +1,4 @@
-package br.cvm.eti.joke;
+package br.eti.cvm.joke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
